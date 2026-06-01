@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.anups.earntrack.app-release-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\anups\\Documents\\Codex\\2026-05-29\\give-me-one-app-which-i\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "213",
+                        "endColumns": "46",
+                        "endOffsets": "255"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\anups\\Documents\\Codex\\2026-05-29\\give-me-one-app-which-i\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,1,4,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "94,16,135,54",
+                        "endColumns": "40,37,38,39",
+                        "endOffsets": "130,49,169,89"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,96,134,173",
+                        "endColumns": "40,37,38,39",
+                        "endOffsets": "91,129,168,208"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\anups\\Documents\\Codex\\2026-05-29\\give-me-one-app-which-i\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "416"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "260",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "660"
+                    }
+                }
+            ]
+        }
+    ]
+}

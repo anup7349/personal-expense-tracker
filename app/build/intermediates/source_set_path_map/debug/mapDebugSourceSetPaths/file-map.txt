@@ -1,0 +1,8 @@
+com.anups.earntrack.app-pngs-0 C:\Users\anups\Documents\Codex\2026-05-29\give-me-one-app-which-i\app\build\generated\res\pngs\debug
+com.anups.earntrack.app-resValues-1 C:\Users\anups\Documents\Codex\2026-05-29\give-me-one-app-which-i\app\build\generated\res\resValues\debug
+com.anups.earntrack.app-updated_navigation_xml-2 C:\Users\anups\Documents\Codex\2026-05-29\give-me-one-app-which-i\app\build\generated\updated_navigation_xml\debug
+com.anups.earntrack.app-packageDebugResources-3 C:\Users\anups\Documents\Codex\2026-05-29\give-me-one-app-which-i\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.anups.earntrack.app-packageDebugResources-4 C:\Users\anups\Documents\Codex\2026-05-29\give-me-one-app-which-i\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.anups.earntrack.app-debug-5 C:\Users\anups\Documents\Codex\2026-05-29\give-me-one-app-which-i\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.anups.earntrack.app-debug-6 C:\Users\anups\Documents\Codex\2026-05-29\give-me-one-app-which-i\app\src\debug\res
+com.anups.earntrack.app-main-7 C:\Users\anups\Documents\Codex\2026-05-29\give-me-one-app-which-i\app\src\main\res
